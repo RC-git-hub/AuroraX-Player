@@ -22,7 +22,7 @@ AuroraX Player is a lightweight Python media player with a modern GUI built usin
 ```bash
 git clone https://github.com/RC-git-hub/AuroraX-Player.git
 cd AuroraX-Player
-
+```
 ## License
 This project is licensed under the MIT License.
 See the [LICENSE](./LICENSE) file for details.
